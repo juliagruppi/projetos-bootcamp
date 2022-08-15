@@ -1,0 +1,19 @@
+html, body {
+margin: 0%;
+padding: 0%;
+}
+
+.menu{
+  background: red;
+  padding: 2em;
+}
+
+.conteudo{
+  background: yellow;
+  padding: 8em;
+}
+
+.rodape{
+  background: blue;
+  padding: 2em;
+}
